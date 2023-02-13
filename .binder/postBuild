@@ -1,0 +1,3 @@
+#!/bin/bash
+R -e "tinytex::install_tinytex(force = TRUE)"
+
